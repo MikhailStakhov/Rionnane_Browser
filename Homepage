@@ -98,3 +98,92 @@ s.setAttribute('data-timestamp', +new Date());
     </footer>
   </body>
 </html>
+
+CSS Code
+
+body {
+  background-color: #d9b38c;
+  font-family: Arial, helvetica, sans-serif;
+}
+
+/* company name */
+h1 {
+border: 4px  #7FFFD4;
+  border-radius: 4px;
+  text-transform: uppercase;
+  color: white;
+  text-align:center;
+  background-color: #65456454
+}
+
+.headings {
+  border-radius: 5px 5px 0 0
+}
+
+
+h2 {
+  background-color: white
+}
+
+h3 {
+  background-color: white
+}
+
+h4  {
+  background-color: white
+}
+
+h5 {
+  background-color: white
+}
+
+h6 {
+  background-color: gold
+}
+
+img{
+  margin: 0 0 20px 0
+}
+/* SLOGIN- FOR COMPANY*/
+#slogin {
+  font-size: 18px ;
+  font-weight: 600 ;
+  text-align: center ;
+  font-style: italic ;
+  background-color: #F5DEB3;
+  border-radius: 5px;
+  padding: 10px 5px 3px 20px;
+}
+#Begginer {
+  background-color: lightblue;
+   border-radius: 5px;
+  padding: 10px 5px 3px 20px;
+}
+
+#program {
+  background-color: #ff8a80;
+  border-radius: 5px;
+  padding: 10px 5px 3px 20px;
+}
+
+#Topteacher {
+  background-color: #7FFF00;
+  border-radius: 5px;
+  padding: 10px 5px 3px 20px;
+ }
+ 
+
+#myproject {
+  background-color: #FF00FF;
+  border-radius: 5px;
+  padding: 10px 5px 3px 20px;
+}
+
+#Admin {
+  background-color: #AFEEEE;
+  border-radius: 5px;
+  padding: 10px 5px 3px 20px;
+}
+
+
+
